@@ -1,0 +1,2 @@
+git config --global user.email "logan.africa@lgatechnologies.co.za"
+  git config --global user.name "Logan"
